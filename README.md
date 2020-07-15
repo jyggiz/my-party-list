@@ -3,7 +3,7 @@ Demo app with implementation of Contact Picker API. Create for my [Medium articl
 
 # Demo
 Use the app online at https://contacts-picker.firebaseapp.com/
-![App demo](demo/1.gif)
+![App demo](public/app_demo.gif)
 
 # Built With
 * [PaperCSS](https://www.getpapercss.com/) - the less formal CSS framework
