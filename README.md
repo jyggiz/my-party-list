@@ -10,7 +10,6 @@ Use the app online at https://contacts-picker.firebaseapp.com/
 
 # Support
 Reach out to me at one of the following places!
-* Twitter at [@jyggiz_](https://twitter.com/jyggiz_)
 * Linkedin at [@timur-zhigmytov](https://www.linkedin.com/in/timur-zhigmytov/)
 * Medium at [@zhygmytov](https://medium.com/@zhygmytov)
 
